@@ -26,7 +26,3 @@ end
 a = Mocking.new
 a.word_fix
 a.fixToPic
-
-
-
-
